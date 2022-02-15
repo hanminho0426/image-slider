@@ -1,6 +1,6 @@
 # `IMAGE-SLIDER(이미지슬라이드)`202202140215
 
-## [IMAGE-SLIDER]( "Netlify로 이동")
+## [IMAGE-SLIDER](https://wizardly-mirzakhani-cc690e.netlify.app/ 'Netlify로 이동')
 
 - 개발환경 설정(Webpack)
 - fontawsome 패키지 추가
